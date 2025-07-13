@@ -4,6 +4,9 @@
 
 Este projeto foi desenvolvido na disciplina de **PBL02** da UNIFEI e consiste em um sistema embarcado baseado no microcontrolador **LPC11Uxx** que simula um sensor inteligente com sistema de alarme configurável. O sistema utiliza uma máquina de estados para navegação entre diferentes modos de operação, interface LCD para interação com o usuário, e comunicação serial para monitoramento de valores externos.
 
+## 🎥 Demonstração
+[🎬 Assista ao vídeo demonstrativo do projeto](https://youtu.be/uE-_c5lZllQ)
+
 ## 🎯 Objetivos do Projeto
 
 - Implementar uma máquina de estados robusta para controle de sistema embarcado
