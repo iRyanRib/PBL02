@@ -37,11 +37,12 @@ static void lcdSendByte(unsigned char value, int rs){
     digitalWrite(LCD_RS, rs);
     lcdSendNibble(value >> 4);
     lcdSendNibble(value & 0x0F);
-    delayMili(2);
+
 }
 
 void lcdCommand(unsigned char cmd){
     lcdSendByte(cmd, LOW);
+    delayMili(2);
 }
 
 void lcdChar(unsigned char ch){
