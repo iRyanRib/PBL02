@@ -198,31 +198,6 @@ WARNING - Value [valor] is outside the range [min, max]
 - **Internacionalização**: Sistema multi-idioma simples
 - **Conversão BCD**: Para interface com RTC
 
-## 🚀 Como Usar
-
-### Compilação
-```bash
-# Navegar para o diretório do projeto
-cd PBL02
-
-# Compilar usando o makefile
-make
-
-# Programar no microcontrolador
-make flash
-```
-
-### Operação
-
-1. **Inicialização**: Sistema inicia mostrando o horário atual
-2. **Navegação**: Use o botão CONFIRM para alternar entre estados
-3. **Configuração**: 
-   - No estado TEMPO: LEFT/RIGHT ajustam minutos
-   - No estado IDIOMA: LEFT/RIGHT alternam idioma
-   - No estado ALARME_MIN: LEFT/RIGHT ajustam threshold mínimo
-   - No estado ALARME_MAX: LEFT/RIGHT ajustam threshold máximo
-4. **Monitoramento**: Envie valores numéricos via serial seguidos de Enter
-
 ### Exemplo de Uso Serial
 ```
 > 75
