@@ -1,0 +1,13 @@
+../src/lcd.c:9:6:delayMicro	24	static
+../src/lcd.c:14:6:delayMili	24	static
+../src/lcd.c:21:13:lcdPulseEnable	8	static
+../src/lcd.c:28:13:lcdSendNibble	24	static
+../src/lcd.c:36:13:lcdSendByte	16	static
+../src/lcd.c:43:6:lcdCommand	16	static
+../src/lcd.c:47:6:lcdChar	16	static
+../src/lcd.c:51:6:lcdString	16	static
+../src/lcd.c:57:6:lcdClear	8	static
+../src/lcd.c:62:6:lcdHome	8	static
+../src/lcd.c:67:6:lcdSetCursor	24	static
+../src/lcd.c:72:6:lcdInit	16	static
+../src/lcd.c:111:6:lcdNumber	40	static

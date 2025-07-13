@@ -1,0 +1,948 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc11xx.o (__main)
+C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                              ./src/serial.o (__aeabi_idiv)
+C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                              C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .group         0x00000000        0xc ./src/adc.o
+ .text          0x00000000        0x0 ./src/adc.o
+ .data          0x00000000        0x0 ./src/adc.o
+ .bss           0x00000000        0x0 ./src/adc.o
+ .text.adcInit  0x00000000       0x60 ./src/adc.o
+ .text.adcRead  0x00000000       0x30 ./src/adc.o
+ .debug_info    0x00000000      0x791 ./src/adc.o
+ .debug_abbrev  0x00000000      0x112 ./src/adc.o
+ .debug_aranges
+                0x00000000       0x28 ./src/adc.o
+ .debug_ranges  0x00000000       0x18 ./src/adc.o
+ .debug_macro   0x00000000       0x97 ./src/adc.o
+ .debug_macro   0x00000000      0xaba ./src/adc.o
+ .debug_macro   0x00000000       0x1c ./src/adc.o
+ .debug_macro   0x00000000       0x10 ./src/adc.o
+ .debug_macro   0x00000000      0x12e ./src/adc.o
+ .debug_macro   0x00000000      0x5b3 ./src/adc.o
+ .debug_macro   0x00000000       0x1c ./src/adc.o
+ .debug_macro   0x00000000       0x22 ./src/adc.o
+ .debug_macro   0x00000000       0xd1 ./src/adc.o
+ .debug_macro   0x00000000      0x391 ./src/adc.o
+ .debug_macro   0x00000000      0x131 ./src/adc.o
+ .debug_macro   0x00000000       0x22 ./src/adc.o
+ .debug_line    0x00000000      0x239 ./src/adc.o
+ .debug_str     0x00000000     0x6aac ./src/adc.o
+ .comment       0x00000000       0x45 ./src/adc.o
+ .debug_frame   0x00000000       0x48 ./src/adc.o
+ .ARM.attributes
+                0x00000000       0x2c ./src/adc.o
+ .group         0x00000000        0xc ./src/buttons.o
+ .group         0x00000000        0xc ./src/buttons.o
+ .group         0x00000000        0xc ./src/buttons.o
+ .group         0x00000000        0xc ./src/buttons.o
+ .text          0x00000000        0x0 ./src/buttons.o
+ .data          0x00000000        0x0 ./src/buttons.o
+ .bss           0x00000000        0x0 ./src/buttons.o
+ .debug_macro   0x00000000      0xaba ./src/buttons.o
+ .debug_macro   0x00000000       0x22 ./src/buttons.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc11xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x00000000      0xaba ./src/cr_startup_lpc11xx.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0xaba ./src/crp.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .group         0x00000000        0xc ./src/i2c.o
+ .text          0x00000000        0x0 ./src/i2c.o
+ .data          0x00000000        0x0 ./src/i2c.o
+ .bss           0x00000000        0x0 ./src/i2c.o
+ .debug_macro   0x00000000      0xaba ./src/i2c.o
+ .debug_macro   0x00000000       0x1c ./src/i2c.o
+ .debug_macro   0x00000000       0x10 ./src/i2c.o
+ .debug_macro   0x00000000      0x12e ./src/i2c.o
+ .debug_macro   0x00000000      0x5b3 ./src/i2c.o
+ .debug_macro   0x00000000       0x1c ./src/i2c.o
+ .debug_macro   0x00000000       0x22 ./src/i2c.o
+ .debug_macro   0x00000000       0xd1 ./src/i2c.o
+ .debug_macro   0x00000000      0x391 ./src/i2c.o
+ .debug_macro   0x00000000      0x131 ./src/i2c.o
+ .debug_macro   0x00000000       0x22 ./src/i2c.o
+ .debug_macro   0x00000000       0x64 ./src/i2c.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .group         0x00000000        0xc ./src/io.o
+ .text          0x00000000        0x0 ./src/io.o
+ .data          0x00000000        0x0 ./src/io.o
+ .bss           0x00000000        0x0 ./src/io.o
+ .debug_macro   0x00000000      0xaba ./src/io.o
+ .debug_macro   0x00000000       0x22 ./src/io.o
+ .debug_macro   0x00000000       0x64 ./src/io.o
+ .debug_macro   0x00000000       0x1c ./src/io.o
+ .debug_macro   0x00000000       0x10 ./src/io.o
+ .debug_macro   0x00000000      0x12e ./src/io.o
+ .debug_macro   0x00000000      0x5b3 ./src/io.o
+ .debug_macro   0x00000000       0x1c ./src/io.o
+ .debug_macro   0x00000000       0x22 ./src/io.o
+ .debug_macro   0x00000000       0xd1 ./src/io.o
+ .debug_macro   0x00000000      0x391 ./src/io.o
+ .debug_macro   0x00000000      0x131 ./src/io.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .text          0x00000000        0x0 ./src/lcd.o
+ .data          0x00000000        0x0 ./src/lcd.o
+ .bss           0x00000000        0x0 ./src/lcd.o
+ .text.lcdHome  0x00000000       0x16 ./src/lcd.o
+ .debug_macro   0x00000000      0xaba ./src/lcd.o
+ .debug_macro   0x00000000       0x64 ./src/lcd.o
+ .debug_macro   0x00000000       0x22 ./src/lcd.o
+ .debug_macro   0x00000000       0x1c ./src/lcd.o
+ .debug_macro   0x00000000       0x10 ./src/lcd.o
+ .debug_macro   0x00000000      0x12e ./src/lcd.o
+ .debug_macro   0x00000000      0x5b3 ./src/lcd.o
+ .debug_macro   0x00000000       0x1c ./src/lcd.o
+ .debug_macro   0x00000000       0x22 ./src/lcd.o
+ .debug_macro   0x00000000       0xd1 ./src/lcd.o
+ .debug_macro   0x00000000      0x391 ./src/lcd.o
+ .debug_macro   0x00000000      0x131 ./src/lcd.o
+ .group         0x00000000        0xc ./src/leds.o
+ .group         0x00000000        0xc ./src/leds.o
+ .text          0x00000000        0x0 ./src/leds.o
+ .data          0x00000000        0x0 ./src/leds.o
+ .bss           0x00000000        0x0 ./src/leds.o
+ .text.ledsToggleAll
+                0x00000000       0x22 ./src/leds.o
+ .debug_macro   0x00000000      0xaba ./src/leds.o
+ .debug_macro   0x00000000       0x64 ./src/leds.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0xaba ./src/main.o
+ .debug_macro   0x00000000       0x1c ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000      0x12e ./src/main.o
+ .debug_macro   0x00000000      0x5b3 ./src/main.o
+ .debug_macro   0x00000000       0x1c ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0xd1 ./src/main.o
+ .debug_macro   0x00000000      0x391 ./src/main.o
+ .debug_macro   0x00000000      0x131 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x28 ./src/main.o
+ .debug_macro   0x00000000       0x64 ./src/main.o
+ .group         0x00000000        0xc ./src/rtc.o
+ .group         0x00000000        0xc ./src/rtc.o
+ .text          0x00000000        0x0 ./src/rtc.o
+ .data          0x00000000        0x0 ./src/rtc.o
+ .bss           0x00000000        0x0 ./src/rtc.o
+ .text.mcp7940Init
+                0x00000000       0x42 ./src/rtc.o
+ .text.mcpReadReg
+                0x00000000       0x22 ./src/rtc.o
+ .text.mcpWriteReg
+                0x00000000       0x2a ./src/rtc.o
+ .debug_macro   0x00000000      0xaba ./src/rtc.o
+ .debug_macro   0x00000000       0x8e ./src/rtc.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .group         0x00000000        0xc ./src/serial.o
+ .text          0x00000000        0x0 ./src/serial.o
+ .data          0x00000000        0x0 ./src/serial.o
+ .bss           0x00000000        0x0 ./src/serial.o
+ .text.serialSendInt
+                0x00000000       0x88 ./src/serial.o
+ .text.serialSend2Digit
+                0x00000000       0x24 ./src/serial.o
+ .text.serialSendTime
+                0x00000000       0x82 ./src/serial.o
+ .text.serialSendDate
+                0x00000000       0x70 ./src/serial.o
+ .rodata.serialSendDateTime.str1.4
+                0x00000000        0x3 ./src/serial.o
+ .text.serialSendDateTime
+                0x00000000       0x20 ./src/serial.o
+ .debug_macro   0x00000000      0xaba ./src/serial.o
+ .debug_macro   0x00000000       0x1c ./src/serial.o
+ .debug_macro   0x00000000       0x10 ./src/serial.o
+ .debug_macro   0x00000000      0x12e ./src/serial.o
+ .debug_macro   0x00000000      0x5b3 ./src/serial.o
+ .debug_macro   0x00000000       0x1c ./src/serial.o
+ .debug_macro   0x00000000       0x22 ./src/serial.o
+ .debug_macro   0x00000000       0xd1 ./src/serial.o
+ .debug_macro   0x00000000      0x391 ./src/serial.o
+ .debug_macro   0x00000000      0x131 ./src/serial.o
+ .debug_macro   0x00000000       0x8e ./src/serial.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/system_LPC11xx.o
+ .text          0x00000000        0x0 ./src/system_LPC11xx.o
+ .data          0x00000000        0x0 ./src/system_LPC11xx.o
+ .bss           0x00000000        0x0 ./src/system_LPC11xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./src/system_LPC11xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x1e8 ./src/system_LPC11xx.o
+ .rodata.SystemCoreClockUpdate
+                0x00000000       0x40 ./src/system_LPC11xx.o
+ .debug_macro   0x00000000      0xaba ./src/system_LPC11xx.o
+ .debug_macro   0x00000000       0x10 ./src/system_LPC11xx.o
+ .debug_macro   0x00000000      0x12e ./src/system_LPC11xx.o
+ .debug_macro   0x00000000      0x5b3 ./src/system_LPC11xx.o
+ .debug_macro   0x00000000       0x1c ./src/system_LPC11xx.o
+ .debug_macro   0x00000000       0x1c ./src/system_LPC11xx.o
+ .debug_macro   0x00000000       0x22 ./src/system_LPC11xx.o
+ .debug_macro   0x00000000       0xd1 ./src/system_LPC11xx.o
+ .debug_macro   0x00000000      0x391 ./src/system_LPC11xx.o
+ .debug_macro   0x00000000      0x131 ./src/system_LPC11xx.o
+ .group         0x00000000        0xc ./src/utils.o
+ .text          0x00000000        0x0 ./src/utils.o
+ .data          0x00000000        0x0 ./src/utils.o
+ .bss           0x00000000        0x0 ./src/utils.o
+ .text.strToInt
+                0x00000000       0x44 ./src/utils.o
+ .debug_macro   0x00000000      0xaba ./src/utils.o
+ .text          0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x00000000         0x00008000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/adc.o
+LOAD ./src/buttons.o
+LOAD ./src/cr_startup_lpc11xx.o
+LOAD ./src/crp.o
+LOAD ./src/i2c.o
+LOAD ./src/io.o
+LOAD ./src/lcd.o
+LOAD ./src/leds.o
+LOAD ./src/main.o
+LOAD ./src/rtc.o
+LOAD ./src/serial.o
+LOAD ./src/system_LPC11xx.o
+LOAD ./src/utils.o
+START GROUP
+LOAD C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a
+LOAD C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a
+LOAD C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libgcc.a
+END GROUP
+                0x00000000                        __base_MFlash32 = 0x0
+                0x00000000                        __base_Flash = 0x0
+                0x00008000                        __top_MFlash32 = 0x8000
+                0x00008000                        __top_Flash = 0x8000
+                0x10000000                        __base_RamLoc8 = 0x10000000
+                0x10000000                        __base_RAM = 0x10000000
+                0x10002000                        __top_RamLoc8 = 0x10002000
+                0x10002000                        __top_RAM = 0x10002000
+
+.text           0x00000000     0x1540
+ FILL mask 0xff
+                0x00000000                        __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc11xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                        . = ALIGN (0x4)
+                0x000000c0                        __section_table_start = .
+                0x000000c0                        __data_section_table = .
+                0x000000c0        0x4 LONG 0x1540 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x0 SIZEOF (.data)
+                0x000000cc                        __data_section_table_end = .
+                0x000000cc                        __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000000 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x14 SIZEOF (.bss)
+                0x000000d4                        __bss_section_table_end = .
+                0x000000d4                        __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4      0x124 ./src/cr_startup_lpc11xx.o
+                0x000000d4                data_init
+                0x00000116                bss_init
+                0x0000014c                ResetISR
+                0x000001c8                NMI_Handler
+                0x000001d0                HardFault_Handler
+                0x000001d8                SVC_Handler
+                0x000001e0                PendSV_Handler
+                0x000001e8                SysTick_Handler
+                0x000001f0                TIMER32_1_IRQHandler
+                0x000001f0                IntDefaultHandler
+                0x000001f0                PIOINT1_IRQHandler
+                0x000001f0                CAN_IRQHandler
+                0x000001f0                TIMER32_0_IRQHandler
+                0x000001f0                UART_IRQHandler
+                0x000001f0                TIMER16_1_IRQHandler
+                0x000001f0                ADC_IRQHandler
+                0x000001f0                SSP1_IRQHandler
+                0x000001f0                PIOINT2_IRQHandler
+                0x000001f0                BOD_IRQHandler
+                0x000001f0                WAKEUP_IRQHandler
+                0x000001f0                PIOINT0_IRQHandler
+                0x000001f0                I2C_IRQHandler
+                0x000001f0                WDT_IRQHandler
+                0x000001f0                TIMER16_0_IRQHandler
+                0x000001f0                SSP0_IRQHandler
+                0x000001f0                PIOINT3_IRQHandler
+                0x000002fc                        . = 0x2fc
+ *fill*         0x000001f8      0x104 ff
+                0x000002fc                        PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                        PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                        ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.buttonsInit
+                0x00000300       0x32 ./src/buttons.o
+                0x00000300                buttonsInit
+ *fill*         0x00000332        0x2 ff
+ .text.buttonsRead
+                0x00000334       0x14 ./src/buttons.o
+                0x00000334                buttonsRead
+ .text.buttonsDebounce
+                0x00000348       0xb4 ./src/buttons.o
+                0x00000348                buttonsDebounce
+ .text.i2cInit  0x000003fc       0x6c ./src/i2c.o
+                0x000003fc                i2cInit
+ .text.i2cSend  0x00000468       0xac ./src/i2c.o
+                0x00000468                i2cSend
+ .text.i2cReceive
+                0x00000514       0xf2 ./src/i2c.o
+                0x00000514                i2cReceive
+ .text.i2cReadReg
+                0x00000606       0x3c ./src/i2c.o
+                0x00000606                i2cReadReg
+ .text.i2cWriteReg
+                0x00000642       0x46 ./src/i2c.o
+                0x00000642                i2cWriteReg
+ .text.getPort  0x00000688       0x50 ./src/io.o
+ .text.pinMode  0x000006d8       0x94 ./src/io.o
+                0x000006d8                pinMode
+ .text.digitalWrite
+                0x0000076c       0x8c ./src/io.o
+                0x0000076c                digitalWrite
+ .text.digitalRead
+                0x000007f8       0x68 ./src/io.o
+                0x000007f8                digitalRead
+ .text.digitalToggle
+                0x00000860       0x60 ./src/io.o
+                0x00000860                digitalToggle
+ .text.delayMicro
+                0x000008c0       0x28 ./src/lcd.o
+                0x000008c0                delayMicro
+ .text.delayMili
+                0x000008e8       0x30 ./src/lcd.o
+                0x000008e8                delayMili
+ .text.lcdPulseEnable
+                0x00000918       0x26 ./src/lcd.o
+ *fill*         0x0000093e        0x2 ff
+ .text.lcdSendNibble
+                0x00000940       0x4c ./src/lcd.o
+ .text.lcdSendByte
+                0x0000098c       0x44 ./src/lcd.o
+ .text.lcdCommand
+                0x000009d0       0x20 ./src/lcd.o
+                0x000009d0                lcdCommand
+ .text.lcdChar  0x000009f0       0x20 ./src/lcd.o
+                0x000009f0                lcdChar
+ .text.lcdString
+                0x00000a10       0x2a ./src/lcd.o
+                0x00000a10                lcdString
+ .text.lcdClear
+                0x00000a3a       0x16 ./src/lcd.o
+                0x00000a3a                lcdClear
+ .text.lcdSetCursor
+                0x00000a50       0x48 ./src/lcd.o
+                0x00000a50                lcdSetCursor
+ .text.lcdInit  0x00000a98       0xc4 ./src/lcd.o
+                0x00000a98                lcdInit
+ .text.lcdNumber
+                0x00000b5c       0x26 ./src/lcd.o
+                0x00000b5c                lcdNumber
+ .text.ledsInit
+                0x00000b82       0x2e ./src/leds.o
+                0x00000b82                ledsInit
+ .text.ledsOnAll
+                0x00000bb0       0x2a ./src/leds.o
+                0x00000bb0                ledsOnAll
+ .text.ledsOffAll
+                0x00000bda       0x2a ./src/leds.o
+                0x00000bda                ledsOffAll
+ .text.ledsToggle
+                0x00000c04       0x1e ./src/leds.o
+                0x00000c04                ledsToggle
+ .text.ledsSet  0x00000c22       0x24 ./src/leds.o
+                0x00000c22                ledsSet
+ .text.ledsShow
+                0x00000c46       0xaa ./src/leds.o
+                0x00000c46                ledsShow
+ .text.main     0x00000cf0      0x3c8 ./src/main.o
+                0x00000cf0                main
+ .text.bcdToDec
+                0x000010b8       0x34 ./src/rtc.o
+                0x000010b8                bcdToDec
+ .text.decToBcd
+                0x000010ec       0x42 ./src/rtc.o
+                0x000010ec                decToBcd
+ .text.mcpReadSram
+                0x0000112e       0x36 ./src/rtc.o
+                0x0000112e                mcpReadSram
+ .text.mcpWriteSram
+                0x00001164       0x3c ./src/rtc.o
+                0x00001164                mcpWriteSram
+ .text.serialInit
+                0x000011a0       0x84 ./src/serial.o
+                0x000011a0                serialInit
+ .text.serialSendChar
+                0x00001224       0x2c ./src/serial.o
+                0x00001224                serialSendChar
+ .text.serialSendString
+                0x00001250       0x2a ./src/serial.o
+                0x00001250                serialSendString
+ *fill*         0x0000127a        0x2 ff
+ .text.serialReadChar
+                0x0000127c       0x24 ./src/serial.o
+                0x0000127c                serialReadChar
+ .text.SystemInit
+                0x000012a0       0x9c ./src/system_LPC11xx.o
+                0x000012a0                SystemInit
+ .text.delay_ms
+                0x0000133c       0x38 ./src/utils.o
+                0x0000133c                delay_ms
+ .text.intToStr
+                0x00001374       0xea ./src/utils.o
+                0x00001374                intToStr
+ .text.__weak_main
+                0x0000145e        0x8 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                0x0000145e                __weak_main
+                0x0000145e                __main
+ .text.__aeabi_division_idivmod
+                0x00001466       0x78 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                0x00001466                __aeabi_idivmod
+                0x00001466                __aeabi_idiv
+                0x0000146c                __aeabi_uidivmod
+                0x0000146c                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x000014de        0x2 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                0x000014de                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.btnPins
+                0x000014e0        0x5 ./src/buttons.o
+ *fill*         0x000014e5        0x3 ff
+ .rodata.lcdDataPins
+                0x000014e8        0x4 ./src/lcd.o
+ .rodata.main.str1.4
+                0x000014ec       0x2b ./src/main.o
+ *fill*         0x00001517        0x1 ff
+ .rodata.main   0x00001518       0x28 ./src/main.o
+                0x00001540                        . = ALIGN (0x4)
+
+.glue_7         0x00001540        0x0
+ .glue_7        0x00001540        0x0 linker stubs
+
+.glue_7t        0x00001540        0x0
+ .glue_7t       0x00001540        0x0 linker stubs
+
+.vfp11_veneer   0x00001540        0x0
+ .vfp11_veneer  0x00001540        0x0 linker stubs
+
+.v4_bx          0x00001540        0x0
+ .v4_bx         0x00001540        0x0 linker stubs
+
+.iplt           0x00001540        0x0
+ .iplt          0x00001540        0x0 ./src/buttons.o
+
+.rel.dyn        0x00001540        0x0
+ .rel.iplt      0x00001540        0x0 ./src/buttons.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00001540        0x0
+                0x00001540                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001540                        __exidx_end = .
+                0x00001540                        _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+                0x10000000                        _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000000                        . = ALIGN (0x4)
+                0x10000000                        _end_uninit_RESERVED = .
+
+.data           0x10000000        0x0 load address 0x00001540
+ FILL mask 0xff
+                0x10000000                        _data = .
+                [!provide]                        PROVIDE (__start_data_RAM = .)
+                [!provide]                        PROVIDE (__start_data_RamLoc8 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+                0x10000000                        . = ALIGN (0x4)
+                0x10000000                        _edata = .
+                [!provide]                        PROVIDE (__end_data_RAM = .)
+                [!provide]                        PROVIDE (__end_data_RamLoc8 = .)
+
+.igot.plt       0x10000000        0x0 load address 0x00001540
+ .igot.plt      0x10000000        0x0 ./src/buttons.o
+
+.bss            0x10000000       0x14
+                0x10000000                        _bss = .
+                [!provide]                        PROVIDE (__start_bss_RAM = .)
+                [!provide]                        PROVIDE (__start_bss_RamLoc8 = .)
+ *(.bss*)
+ .bss.buttons   0x10000000        0x4 ./src/buttons.o
+ .bss.buttonsOld
+                0x10000004        0x4 ./src/buttons.o
+ .bss.newRead.2
+                0x10000008        0x4 ./src/buttons.o
+ .bss.stableRead.1
+                0x1000000c        0x4 ./src/buttons.o
+ .bss.tempo.0   0x10000010        0x4 ./src/buttons.o
+ *(COMMON)
+                0x10000014                        . = ALIGN (0x4)
+                0x10000014                        _ebss = .
+                [!provide]                        PROVIDE (__end_bss_RAM = .)
+                [!provide]                        PROVIDE (__end_bss_RamLoc8 = .)
+                [!provide]                        PROVIDE (end = .)
+
+.noinit         0x10000014        0x0
+                0x10000014                        _noinit = .
+                [!provide]                        PROVIDE (__start_noinit_RAM = .)
+                [!provide]                        PROVIDE (__start_noinit_RamLoc8 = .)
+ *(.noinit*)
+                0x10000014                        . = ALIGN (0x4)
+                0x10000014                        _end_noinit = .
+                [!provide]                        PROVIDE (__end_noinit_RAM = .)
+                [!provide]                        PROVIDE (__end_noinit_RamLoc8 = .)
+                [!provide]                        PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10002000                        PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+                0xefffdb19                        PROVIDE (__valid_user_code_checksum = (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x00000000                        _image_start = LOADADDR (.text)
+                0x00001540                        _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00001540                        _image_size = (_image_end - _image_start)
+OUTPUT(main.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x319e
+ .debug_info    0x00000000      0x255 ./src/buttons.o
+ .debug_info    0x00000255      0x24c ./src/cr_startup_lpc11xx.o
+ .debug_info    0x000004a1       0x40 ./src/crp.o
+ .debug_info    0x000004e1      0x963 ./src/i2c.o
+ .debug_info    0x00000e44      0x458 ./src/io.o
+ .debug_info    0x0000129c      0x73d ./src/lcd.o
+ .debug_info    0x000019d9      0x286 ./src/leds.o
+ .debug_info    0x00001c5f      0x3ac ./src/main.o
+ .debug_info    0x0000200b      0x19c ./src/rtc.o
+ .debug_info    0x000021a7      0x9f2 ./src/serial.o
+ .debug_info    0x00002b99      0x473 ./src/system_LPC11xx.o
+ .debug_info    0x0000300c      0x148 ./src/utils.o
+ .debug_info    0x00003154       0x4a C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.debug_abbrev   0x00000000      0xec5
+ .debug_abbrev  0x00000000      0x118 ./src/buttons.o
+ .debug_abbrev  0x00000118      0x13c ./src/cr_startup_lpc11xx.o
+ .debug_abbrev  0x00000254       0x38 ./src/crp.o
+ .debug_abbrev  0x0000028c      0x1a2 ./src/i2c.o
+ .debug_abbrev  0x0000042e      0x1a0 ./src/io.o
+ .debug_abbrev  0x000005ce      0x1b2 ./src/lcd.o
+ .debug_abbrev  0x00000780       0xe6 ./src/leds.o
+ .debug_abbrev  0x00000866      0x10a ./src/main.o
+ .debug_abbrev  0x00000970       0xde ./src/rtc.o
+ .debug_abbrev  0x00000a4e      0x23d ./src/serial.o
+ .debug_abbrev  0x00000c8b      0x107 ./src/system_LPC11xx.o
+ .debug_abbrev  0x00000d92       0xe7 ./src/utils.o
+ .debug_abbrev  0x00000e79       0x4c C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.debug_aranges  0x00000000      0x340
+ .debug_aranges
+                0x00000000       0x30 ./src/buttons.o
+ .debug_aranges
+                0x00000030       0x60 ./src/cr_startup_lpc11xx.o
+ .debug_aranges
+                0x00000090       0x18 ./src/crp.o
+ .debug_aranges
+                0x000000a8       0x40 ./src/i2c.o
+ .debug_aranges
+                0x000000e8       0x40 ./src/io.o
+ .debug_aranges
+                0x00000128       0x80 ./src/lcd.o
+ .debug_aranges
+                0x000001a8       0x50 ./src/leds.o
+ .debug_aranges
+                0x000001f8       0x20 ./src/main.o
+ .debug_aranges
+                0x00000218       0x50 ./src/rtc.o
+ .debug_aranges
+                0x00000268       0x60 ./src/serial.o
+ .debug_aranges
+                0x000002c8       0x28 ./src/system_LPC11xx.o
+ .debug_aranges
+                0x000002f0       0x30 ./src/utils.o
+ .debug_aranges
+                0x00000320       0x20 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.debug_ranges   0x00000000      0x268
+ .debug_ranges  0x00000000       0x20 ./src/buttons.o
+ .debug_ranges  0x00000020       0x50 ./src/cr_startup_lpc11xx.o
+ .debug_ranges  0x00000070       0x30 ./src/i2c.o
+ .debug_ranges  0x000000a0       0x30 ./src/io.o
+ .debug_ranges  0x000000d0       0x70 ./src/lcd.o
+ .debug_ranges  0x00000140       0x40 ./src/leds.o
+ .debug_ranges  0x00000180       0x10 ./src/main.o
+ .debug_ranges  0x00000190       0x40 ./src/rtc.o
+ .debug_ranges  0x000001d0       0x50 ./src/serial.o
+ .debug_ranges  0x00000220       0x18 ./src/system_LPC11xx.o
+ .debug_ranges  0x00000238       0x20 ./src/utils.o
+ .debug_ranges  0x00000258       0x10 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.debug_macro    0x00000000      0x6f7
+ .debug_macro   0x00000000       0x32 ./src/buttons.o
+ .debug_macro   0x00000032       0x28 ./src/buttons.o
+ .debug_macro   0x0000005a       0x64 ./src/buttons.o
+ .debug_macro   0x000000be       0x1d ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x000000db       0x1a ./src/crp.o
+ .debug_macro   0x000000f5       0x34 ./src/crp.o
+ .debug_macro   0x00000129       0xaa ./src/i2c.o
+ .debug_macro   0x000001d3       0x96 ./src/io.o
+ .debug_macro   0x00000269       0xaf ./src/lcd.o
+ .debug_macro   0x00000318       0x28 ./src/lcd.o
+ .debug_macro   0x00000340       0x2e ./src/leds.o
+ .debug_macro   0x0000036e       0xe3 ./src/main.o
+ .debug_macro   0x00000451       0x2e ./src/main.o
+ .debug_macro   0x0000047f       0x8e ./src/main.o
+ .debug_macro   0x0000050d       0x2e ./src/rtc.o
+ .debug_macro   0x0000053b       0xa1 ./src/serial.o
+ .debug_macro   0x000005dc      0x100 ./src/system_LPC11xx.o
+ .debug_macro   0x000006dc       0x1b ./src/utils.o
+
+.debug_line     0x00000000     0x1c08
+ .debug_line    0x00000000       0xe7 ./src/buttons.o
+ .debug_line    0x000000e7      0x102 ./src/cr_startup_lpc11xx.o
+ .debug_line    0x000001e9       0xb0 ./src/crp.o
+ .debug_line    0x00000299      0x3a2 ./src/i2c.o
+ .debug_line    0x0000063b      0x29a ./src/io.o
+ .debug_line    0x000008d5      0x3cd ./src/lcd.o
+ .debug_line    0x00000ca2      0x13a ./src/leds.o
+ .debug_line    0x00000ddc      0x418 ./src/main.o
+ .debug_line    0x000011f4      0x11e ./src/rtc.o
+ .debug_line    0x00001312      0x3d9 ./src/serial.o
+ .debug_line    0x000016eb      0x393 ./src/system_LPC11xx.o
+ .debug_line    0x00001a7e      0x134 ./src/utils.o
+ .debug_line    0x00001bb2       0x56 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.debug_str      0x00000000     0x7ad5
+ .debug_str     0x00000000     0x7ad5 ./src/buttons.o
+                               0x3174 (size before relaxing)
+ .debug_str     0x00007ad5     0x2f69 ./src/cr_startup_lpc11xx.o
+ .debug_str     0x00007ad5     0x2ea7 ./src/crp.o
+ .debug_str     0x00007ad5     0x6c22 ./src/i2c.o
+ .debug_str     0x00007ad5     0x68f6 ./src/io.o
+ .debug_str     0x00007ad5     0x6a78 ./src/lcd.o
+ .debug_str     0x00007ad5     0x306b ./src/leds.o
+ .debug_str     0x00007ad5     0x6f44 ./src/main.o
+ .debug_str     0x00007ad5     0x32ef ./src/rtc.o
+ .debug_str     0x00007ad5     0x6f69 ./src/serial.o
+ .debug_str     0x00007ad5     0x6ab7 ./src/system_LPC11xx.o
+ .debug_str     0x00007ad5     0x2e12 ./src/utils.o
+ .debug_str     0x00007ad5      0x127 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.comment        0x00000000       0x44
+ .comment       0x00000000       0x44 ./src/buttons.o
+                                 0x45 (size before relaxing)
+ .comment       0x00000044       0x45 ./src/cr_startup_lpc11xx.o
+ .comment       0x00000044       0x45 ./src/crp.o
+ .comment       0x00000044       0x45 ./src/i2c.o
+ .comment       0x00000044       0x45 ./src/io.o
+ .comment       0x00000044       0x45 ./src/lcd.o
+ .comment       0x00000044       0x45 ./src/leds.o
+ .comment       0x00000044       0x45 ./src/main.o
+ .comment       0x00000044       0x45 ./src/rtc.o
+ .comment       0x00000044       0x45 ./src/serial.o
+ .comment       0x00000044       0x45 ./src/system_LPC11xx.o
+ .comment       0x00000044       0x45 ./src/utils.o
+ .comment       0x00000044       0x45 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./src/buttons.o
+ .ARM.attributes
+                0x0000002c       0x2c ./src/cr_startup_lpc11xx.o
+ .ARM.attributes
+                0x00000058       0x2c ./src/crp.o
+ .ARM.attributes
+                0x00000084       0x2c ./src/i2c.o
+ .ARM.attributes
+                0x000000b0       0x2c ./src/io.o
+ .ARM.attributes
+                0x000000dc       0x2c ./src/lcd.o
+ .ARM.attributes
+                0x00000108       0x2c ./src/leds.o
+ .ARM.attributes
+                0x00000134       0x2c ./src/main.o
+ .ARM.attributes
+                0x00000160       0x2c ./src/rtc.o
+ .ARM.attributes
+                0x0000018c       0x2c ./src/serial.o
+ .ARM.attributes
+                0x000001b8       0x2c ./src/system_LPC11xx.o
+ .ARM.attributes
+                0x000001e4       0x2c ./src/utils.o
+ .ARM.attributes
+                0x00000210       0x2c C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x0000023c       0x1c C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x00000258       0x1c C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000      0x884
+ .debug_frame   0x00000000       0x68 ./src/buttons.o
+ .debug_frame   0x00000068      0x118 ./src/cr_startup_lpc11xx.o
+ .debug_frame   0x00000180       0xac ./src/i2c.o
+ .debug_frame   0x0000022c       0xb0 ./src/io.o
+ .debug_frame   0x000002dc      0x1a4 ./src/lcd.o
+ .debug_frame   0x00000480       0xe0 ./src/leds.o
+ .debug_frame   0x00000560       0x30 ./src/main.o
+ .debug_frame   0x00000590       0xf0 ./src/rtc.o
+ .debug_frame   0x00000680      0x11c ./src/serial.o
+ .debug_frame   0x0000079c       0x50 ./src/system_LPC11xx.o
+ .debug_frame   0x000007ec       0x70 ./src/utils.o
+ .debug_frame   0x0000085c       0x28 C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+CAN_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+CRP_WORD                                          ./src/crp.o
+HardFault_Handler                                 ./src/cr_startup_lpc11xx.o
+I2C_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+IntDefaultHandler                                 ./src/cr_startup_lpc11xx.o
+NMI_Handler                                       ./src/cr_startup_lpc11xx.o
+PIOINT0_IRQHandler                                ./src/cr_startup_lpc11xx.o
+PIOINT1_IRQHandler                                ./src/cr_startup_lpc11xx.o
+PIOINT2_IRQHandler                                ./src/cr_startup_lpc11xx.o
+PIOINT3_IRQHandler                                ./src/cr_startup_lpc11xx.o
+PendSV_Handler                                    ./src/cr_startup_lpc11xx.o
+ResetISR                                          ./src/cr_startup_lpc11xx.o
+SSP0_IRQHandler                                   ./src/cr_startup_lpc11xx.o
+SSP1_IRQHandler                                   ./src/cr_startup_lpc11xx.o
+SVC_Handler                                       ./src/cr_startup_lpc11xx.o
+SysTick_Handler                                   ./src/cr_startup_lpc11xx.o
+SystemCoreClock                                   ./src/system_LPC11xx.o
+SystemCoreClockUpdate                             ./src/system_LPC11xx.o
+SystemInit                                        ./src/system_LPC11xx.o
+                                                  ./src/main.o
+TIMER16_0_IRQHandler                              ./src/cr_startup_lpc11xx.o
+TIMER16_1_IRQHandler                              ./src/cr_startup_lpc11xx.o
+TIMER32_0_IRQHandler                              ./src/cr_startup_lpc11xx.o
+TIMER32_1_IRQHandler                              ./src/cr_startup_lpc11xx.o
+UART_IRQHandler                                   ./src/cr_startup_lpc11xx.o
+WAKEUP_IRQHandler                                 ./src/cr_startup_lpc11xx.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+__aeabi_idiv                                      C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                                                  ./src/utils.o
+                                                  ./src/serial.o
+__aeabi_idiv0                                     C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                                                  C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__aeabi_idivmod                                   C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                                                  ./src/utils.o
+                                                  ./src/serial.o
+__aeabi_uidiv                                     C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                                                  ./src/system_LPC11xx.o
+                                                  ./src/rtc.o
+__aeabi_uidivmod                                  C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                                                  ./src/rtc.o
+__bss_section_table_end                           ./src/cr_startup_lpc11xx.o
+__data_section_table                              ./src/cr_startup_lpc11xx.o
+__data_section_table_end                          ./src/cr_startup_lpc11xx.o
+__main                                            C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc11xx.o
+__valid_user_code_checksum                        ./src/cr_startup_lpc11xx.o
+__weak_main                                       C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+_vStackTop                                        ./src/cr_startup_lpc11xx.o
+adcInit                                           ./src/adc.o
+adcRead                                           ./src/adc.o
+bcdToDec                                          ./src/rtc.o
+                                                  ./src/serial.o
+                                                  ./src/main.o
+bss_init                                          ./src/cr_startup_lpc11xx.o
+buttonsDebounce                                   ./src/buttons.o
+                                                  ./src/main.o
+buttonsInit                                       ./src/buttons.o
+                                                  ./src/main.o
+buttonsRead                                       ./src/buttons.o
+                                                  ./src/main.o
+data_init                                         ./src/cr_startup_lpc11xx.o
+decToBcd                                          ./src/rtc.o
+                                                  ./src/main.o
+delayMicro                                        ./src/lcd.o
+delayMili                                         ./src/lcd.o
+delay_ms                                          ./src/utils.o
+                                                  ./src/leds.o
+digitalRead                                       ./src/io.o
+                                                  ./src/buttons.o
+digitalToggle                                     ./src/io.o
+                                                  ./src/leds.o
+digitalWrite                                      ./src/io.o
+                                                  ./src/leds.o
+                                                  ./src/lcd.o
+g_pfnVectors                                      ./src/cr_startup_lpc11xx.o
+i2cInit                                           ./src/i2c.o
+                                                  ./src/main.o
+i2cReadReg                                        ./src/i2c.o
+                                                  ./src/serial.o
+                                                  ./src/rtc.o
+                                                  ./src/main.o
+i2cReceive                                        ./src/i2c.o
+i2cSend                                           ./src/i2c.o
+i2cWriteReg                                       ./src/i2c.o
+                                                  ./src/rtc.o
+                                                  ./src/main.o
+intToStr                                          ./src/utils.o
+                                                  ./src/lcd.o
+lcdChar                                           ./src/lcd.o
+                                                  ./src/main.o
+lcdClear                                          ./src/lcd.o
+                                                  ./src/main.o
+lcdCommand                                        ./src/lcd.o
+lcdHome                                           ./src/lcd.o
+lcdInit                                           ./src/lcd.o
+                                                  ./src/main.o
+lcdNumber                                         ./src/lcd.o
+                                                  ./src/main.o
+lcdSetCursor                                      ./src/lcd.o
+                                                  ./src/main.o
+lcdString                                         ./src/lcd.o
+                                                  ./src/main.o
+ledsInit                                          ./src/leds.o
+                                                  ./src/main.o
+ledsOffAll                                        ./src/leds.o
+                                                  ./src/main.o
+ledsOnAll                                         ./src/leds.o
+                                                  ./src/main.o
+ledsSet                                           ./src/leds.o
+ledsShow                                          ./src/leds.o
+                                                  ./src/main.o
+ledsToggle                                        ./src/leds.o
+                                                  ./src/main.o
+ledsToggleAll                                     ./src/leds.o
+main                                              ./src/main.o
+                                                  C:/nxp/MCUXpressoIDE_24.12.148/ide/plugins/com.nxp.mcuxpresso.tools.win32_24.12.0.202407110909/tools/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+mcp7940Init                                       ./src/rtc.o
+mcpReadReg                                        ./src/rtc.o
+mcpReadSram                                       ./src/rtc.o
+                                                  ./src/main.o
+mcpWriteReg                                       ./src/rtc.o
+mcpWriteSram                                      ./src/rtc.o
+                                                  ./src/main.o
+pinMode                                           ./src/io.o
+                                                  ./src/leds.o
+                                                  ./src/lcd.o
+                                                  ./src/buttons.o
+serialInit                                        ./src/serial.o
+                                                  ./src/main.o
+serialReadChar                                    ./src/serial.o
+                                                  ./src/main.o
+serialSendChar                                    ./src/serial.o
+                                                  ./src/main.o
+serialSendDate                                    ./src/serial.o
+serialSendDateTime                                ./src/serial.o
+serialSendInt                                     ./src/serial.o
+serialSendString                                  ./src/serial.o
+                                                  ./src/main.o
+serialSendTime                                    ./src/serial.o
+strToInt                                          ./src/utils.o

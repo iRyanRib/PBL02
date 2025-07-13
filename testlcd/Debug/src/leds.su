@@ -1,4 +1,0 @@
-C:\Users\USER\Documents\MCUXpressoIDE_24.12.148\workspace\testlcd\lpc_chip_11uxx_lib\inc/gpio_11xx_1.h:102:20:Chip_GPIO_SetPinState	24	static
-C:\Users\USER\Documents\MCUXpressoIDE_24.12.148\workspace\testlcd\lpc_chip_11uxx_lib\inc/gpio_11xx_1.h:153:20:Chip_GPIO_SetPinDIROutput	16	static
-../src/leds.c:10:6:inicializa_leds	8	static
-../src/leds.c:23:6:acende_leds	24	static
